@@ -11,6 +11,8 @@ Table basics and data types
 Various SQL operators
 Various SQL functions
 
+Dataset: AdventureWorks2012 backupfile(https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks)
+
 a. Get all the details from the person table including email ID, phone
 number and phone number type
 b. Get the details of the sales header order made in May 2011
